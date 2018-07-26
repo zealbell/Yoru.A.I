@@ -17,3 +17,6 @@ some times referred to as the YoruPhalbet.
  - training data
  - audio files
  - 
+
+> Despite the unverifiable truths discussed above the aim of this library is to demonstrate how to train a 
+> Convolutional Neural Network model from scratch using the deeplearning4j framework.
