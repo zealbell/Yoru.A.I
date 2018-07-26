@@ -14,9 +14,8 @@ some times referred to as the YoruPhalbet.
 
 ## Quick Links
  
- - training data
- - audio files
- - 
+ - [training data](src/resources/rawdata/yorumnist)
+ - [audio files](src/resources/rawdata/yordio)
 
 > Despite the unverifiable truths discussed above the aim of this library is to demonstrate how to train a 
 > Convolutional Neural Network model from scratch using the deeplearning4j framework.
