@@ -20,6 +20,6 @@ some times referred to as the YoruPhalbet.
  - [audio files](src/resources/rawdata/yordio)
 
 > Despite the unverifiable truths discussed above the aim of this library is to demonstrate how to train a 
-> Convolutional Neural Network model from scratch using the deeplearning4j framework.
+> Convolutional Neural Network model with pictures from scratch using the deeplearning4j framework.
 
  <img src="https://github.com/54LiNKeR/54LiNKeR.github.io/blob/master/shots/%23LiNKeR.png" >
