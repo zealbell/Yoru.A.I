@@ -3,14 +3,18 @@
 # Yoru.A.I.
 
 
-A deeplearning4j project trained to recognise alphabets in one of the s\*xiest languages in Africa. the Yoruba Alphabet. well to be honest Yoruba is one of the razzest languages on the globe but that's not to say it isn't s\*xy, to prove this point that's why Africa has a lot of Yoruba demonds(cheating bastards who do it so well) scattered all over the globe. Any attempt by the reader
-to google these demonds are at the sole descretion of the reader also I strongly advise you against making contact with those of them that 
-live in Nigeria or have anything to do with that country(All it takes is a second to break a girl's heart, they are really dangerous). nof said let's get dirty. 
+A DeepLearning4J model trained to recognize the alphabets of one of Africa’s boldest and baddest languages: Yoruba.
+Yes, Yoruba—a language so rich, expressive, and… unapologetically razz—that it somehow manages to be both chaotic and irresistibly s*xy.
+
+To back this up, we present: the global phenomenon of Yoruba demonds, smooth-talking heartbreakers with PhDs in charm and zero regard for emotional stability.
+
+Google them at your own risk. Contact them even less. Especially the ones based in Nigeria—one text, and your peace of mind is over.
+
+Now that the warnings are out of the way… let’s get neural. Let’s get Yoruba. Let’s get dirty
 
 ## The S\*xy Alphabets
 
-These awesome letters at times when used by African demonds in their snakey inauguration operations may be 
-some times referred to as the YoruPhalbet.
+These iconic letters—when weaponized by certain smooth-operating African demonds during their snakey initiation rituals—are sometimes referred to as the legendary YoruPhalbet
 
 ![yoruphalbet](shots/yoruphalbet.png)
 
@@ -19,7 +23,7 @@ some times referred to as the YoruPhalbet.
  - [training data](src/resources/rawdata/yorumnist)
  - [audio files](src/resources/rawdata/yordio)
 
-> Despite the unverifiable truths discussed above the aim of this library is to demonstrate how to train a 
-> Convolutional Neural Network model with pictures from scratch using the deeplearning4j framework.
+> Despite the wildly unverifiable truths shared above, the actual goal of this library is to demonstrate 
+> how to train a Convolutional Neural Network model with pictures from scratch using the Deeplearning4j framework.
 
  <img src="https://github.com/54LiNKeR/54LiNKeR.github.io/blob/master/shots/%23LiNKeR.png" >
