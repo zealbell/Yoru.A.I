@@ -14,7 +14,7 @@ Now that the warnings are out of the way… let’s get neural. Let’s get Yoru
 
 ## The S\*xy Alphabets
 
-These iconic letters—when weaponized by certain smooth-operating African demonds during their snakey initiation rituals—are sometimes referred to as the legendary YoruPhalbet
+These aren’t just letters. In the hands of a Yoruba demond, they become the Yoruphalbet—an alphabet so smooth it comes with a warning: protect your girl
 
 ![yoruphalbet](shots/yoruphalbet.png)
 
